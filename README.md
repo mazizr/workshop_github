@@ -1,4 +1,4 @@
-# Hoceen
+# AZIZ
 Hoceen adalah (Honesty Canteen) sebuah aplikasi kantin kejujuran 
 dibuat untuk seleksi Compfest Software Engineering Academy 14 
 
